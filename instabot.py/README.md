@@ -84,12 +84,3 @@ bot.get_media_id_by_tag('python')
 bot.like_all_exist_media(4)
 ```
 
-## Video Tutorials
-The following video tutorials demo setting up and running the bot:
-* [Windows](https://www.youtube.com/watch?v=V8P0UCrACA0)
-* [Mac/Linux](https://www.youtube.com/watch?v=ASO-cZO6uqo)
-
-## Community
-
-- [Telegram Group](https://t.me/joinchat/DYKH-0G_8hsDDoN_iE8ZlA)
-- [Facebook Group](https://www.facebook.com/groups/instabot/)
